@@ -10,3 +10,5 @@ Description: Easily interact with Kinexon's API to get data.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/solmos/rkinex
+BugReports: https://github.com/solmos/rkinex/issues
